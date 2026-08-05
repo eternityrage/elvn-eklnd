@@ -238,5 +238,21 @@
             },
             "recycled": false
         }
+    },
+    {
+        "video_name": "grok-video-019fa24b-03f0-7341-aaa1-e47ba3cbea6a (6).mp4",
+        "metadata": {
+            "title": "An Everyday European \u201cGrace Glow\u201d Outfit: Soft Power, Clean Lines & Quiet Confidence",
+            "description": "Today I want to share a little secret I swear by\u2014when you want to feel instantly polished, don\u2019t chase trends, build a look with graceful structure and warm details that feel like you. Picture elegant European lines, a refined color palette, and one standout touch (maybe a crisp collar, a beautifully draped scarf, or the perfect heel height) that says \u201cI\u2019m here\u201d without ever shouting. This is that kind of styling that supports your confidence from the inside out, whether you\u2019re heading to a caf\u00e9, running errands, or stepping into a meeting with calm authority. Try it with whatever you already own\u2014because timeless beauty isn\u2019t about having more, it\u2019s about choosing better and wearing it with self-love.\n\nLike if this inspired your style! Comment your fashion goal below! Share this with someone who loves timeless elegance! Follow Elviane Eklund for daily fashion and lifestyle inspiration! #fashion #lifestyle #elegance #timelessbeauty #europeanstyle #confidence #style #grace #dailyinspiration #classicstyle #sophistication #selflove #fashioninspo #elvianeeklund",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
